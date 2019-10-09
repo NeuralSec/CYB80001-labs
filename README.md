@@ -1,2 +1,2 @@
 # CYB80001-labs
-A quick tutorial for Python, Tensorflow, Keras, and Adversarial example.
+A quick tutorial for Python, Tensorflow, Keras, and adversarial example attack implementations.
